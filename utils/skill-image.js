@@ -185,6 +185,8 @@ export const skillsImage = (skill) => {
       return opencv;
     case 'premiere pro':
       return premierepro;
+    case 'Express':
+      return 'https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png';
     case 'pytorch':
       return pytorch;
     case 'selenium':
