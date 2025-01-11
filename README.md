@@ -22,14 +22,18 @@
 
 ### 📊 Skill Set  
 
-```mermaid
-pie
-    title Skill Distribution
-    "React.js": 30
-    "Next.js": 20
-    "Node.js": 20
-    "MongoDB": 15
-    "Other Tools": 15
+```html
+<svg width="400" height="110">
+  <rect x="10" y="10" width="90%" height="15" fill="#61DAFB" rx="5">
+    <animate attributeName="width" from="0" to="90%" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="10" y="50" font-size="15" fill="#333">React.js</text>
+
+  <rect x="10" y="70" width="80%" height="15" fill="#000" rx="5">
+    <animate attributeName="width" from="0" to="80%" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="10" y="110" font-size="15" fill="#333">Next.js</text>
+</svg>
 ```
 
 ## 📫 How to reach me:
