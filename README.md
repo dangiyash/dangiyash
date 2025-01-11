@@ -22,7 +22,7 @@
 
 ### 📊 Skill Set  
 
-```html
+```
 <svg width="400" height="110">
   <rect x="10" y="10" width="90%" height="15" fill="#61DAFB" rx="5">
     <animate attributeName="width" from="0" to="90%" dur="1.5s" fill="freeze" />
