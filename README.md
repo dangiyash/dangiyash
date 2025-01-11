@@ -1,26 +1,36 @@
-# Hi there, I'm Yash Dangi 👋
+# Hi there, I'm Yash Dangi 👋  
 
-## Web Developer | Machine Learning Enthusiast 🚀
+**Web Developer | Machine Learning Enthusiast 🚀**
 
-## 🔭 I’m currently working on...
-- Improving my *Next.js* and *React.js* skills for better performance and scalability in web apps.
+### 👯 Open to Collaborate On  
+- 🤝 *Web Development Projects*: Exciting apps built with the **MERN stack**.  
+- 🌍 *Open Source Projects*: Focused on social impact and innovation.  
 
-## 🌱 I’m currently learning...
-- *Machine Learning* and its applications in real-world problems, including *TensorFlow* and *OpenCV*.
-- *Advanced Web Development* tools like *Next.js, **Typescript, and **MongoDB*.
-- Exploring *SaaS* and its intersection with *entrepreneurship*.
+#### **Languages & Frameworks**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 
-## 👯 I’m looking to collaborate on...
-- *Web Development Projects: If you're working on an exciting web app or want to explore **MERN stack* solutions, let’s collaborate!
-- *Open Source Projects*: I’d love to contribute to open-source projects with a social impact.
+#### **Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 
-## 🤔 I’m looking for help with...
-- Optimizing web applications for *better performance* and *user experience*.
+---
 
-## 💬 Ask me about...
-- *Web Development* using *React.js* and *Next.js*.
-- *Machine Learning* applications, especially in daily life.
-- *Entertainment*, especially movies and comics.
+### 📊 Skill Set  
+
+```mermaid
+pie
+    title Skill Distribution
+    "React.js": 30
+    "Next.js": 20
+    "Node.js": 20
+    "MongoDB": 15
+    "Other Tools": 15
+```
 
 ## 📫 How to reach me:
 - LinkedIn: [Yash Dangi](https://www.linkedin.com/in/yash-dangi-769b7428b/)
