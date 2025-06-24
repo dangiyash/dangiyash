@@ -2,9 +2,9 @@
 
 **Web Developer | Machine Learning Enthusiast 🚀**
 
-### 👯 Open to Collaborate On  
-- 🤝 *Web Development Projects*: Exciting apps built with the **MERN stack**.  
-- 🌍 *Open Source Projects*: Focused on social impact and innovation.  
+###  Open to Collaborate On  
+-  *Web Development Projects*: Exciting apps built with the **MERN stack**.  
+-  *Open Source Projects*: Focused on social impact and innovation.  
 
 # Tools & Technologies
 
