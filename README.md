@@ -1,4 +1,4 @@
-# Hi there, I'm Yash Dangi 👋  
+# Hi there, I'm Yash...
 
 **Web Developer | Machine Learning Enthusiast 🚀**
 
